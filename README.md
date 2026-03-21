@@ -19,6 +19,12 @@ This repository contains the mechanical design files for a **3-axis CNC (Compute
 * `/Exports`: Universal 3D formats (.STEP / .IGES) for cross-platform viewing.
 * `/Documentation`: Technical report and mechanical calculations.
 
+## Documentation
+The complete 51-page thesis is available here: 
+[📄 Download Thesis (PDF)](./Documentation/TFE___FINAL__LATEX__CNC.pdf)
+
+**Note:** This document includes the ball screw calculations, the selection of components (NEMA 17 motors, etc.), and the design methodology validated by **Prof. Dr. Ing. BARAKA MUSHAGE Olivier**.
+
 ## Author
 **Ahadi Byamungu** Mechanical Engineering Student  
 Université Libre des Pays des Grands Lacs (ULPGL)
